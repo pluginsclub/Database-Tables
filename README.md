@@ -1,6 +1,6 @@
 # Database Tables WordPress plugin
 
-!screenshot](assets/Database-Tables-WordPress-Plugin-plugins.club_.png.webp)
+![screenshot](assets/Database-Tables-WordPress-Plugin-plugins.club_.png.webp)
 
 
 Originally, the WordPress database was formatted as type MyISAM but years later they changed the database format to InnoDB. Reportedly, InnoDB is superior to MyISAM in several ways. If your database is not InnoDB, you may benefit from changing it.
